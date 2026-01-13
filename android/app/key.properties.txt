@@ -1,0 +1,4 @@
+storePassword=020802
+keyPassword=020802
+keyAlias=tejas
+storeFile=../tejas-key.jks
